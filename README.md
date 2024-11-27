@@ -18,8 +18,8 @@ That's exactly what the Multinear platform is for. Multinear allows developers t
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/multinear-demo/demo-bank-support-li-lc
-    cd demo-bank-support-li-lc
+    git clone https://github.com/multinear-demo/demo-bank-support-lc-py
+    cd demo-bank-support-lc-py
     ```
 
 2. **Configure Environment Variables**

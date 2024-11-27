@@ -313,7 +313,7 @@ const Footer = () => (
             <a href="https://multinear.com" target="_blank" className="text-indigo-600 hover:text-indigo-800 px-1">Multinear</a>
             2024 
             <span className="text-gray-400 px-2">|</span>
-            <a href="https://github.com/multinear-demo/demo-bank-customer-support-py" 
+            <a href="https://github.com/multinear-demo/demo-bank-support-lc-py" 
                 target="_blank" 
                 className="text-indigo-600 hover:text-indigo-800 flex items-center">
                 <span className="border border-gray-500 rounded-full p-1 mr-1">
