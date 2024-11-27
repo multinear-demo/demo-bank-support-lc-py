@@ -1,0 +1,126 @@
+project:
+  name: Demo - Bank Customer Support
+  id: bank-1
+  description: Demo project
+
+tasks:
+  - input: I received my credit card today but there's no PIN with it. What should I do to start using it?
+    id: activate-credit-card-no-pin
+    checklist: |-
+      - Answer outlines the process for activating a credit card without an existing PIN.
+      - Answer mentions logging into Online Banking or the mobile app to access the 'Cards' section.
+      - Answer includes steps to set a new PIN and the option to activate the card by opting to sign for payments initially.
+      - Answer provides alternatives such as visiting a branch or contacting support if online methods are unavailable.
+    min_score: 0.8
+
+  - input: need help paying off my card balance online please
+    id: pay-credit-card-bill-online
+    checklist: |-
+      - Answer explains the process of logging into Online Banking with credentials.
+      - Answer describes accessing the credit card account from the accounts display.
+      - Answer details clicking on 'Make Payment' and selecting the payment amount.
+      - Answer includes choosing a payment source from linked accounts.
+      - Answer mentions reviewing and confirming the payment, and receiving a confirmation email.
+    min_score: 0.8
+
+  - input: "how do i change my phone # in the system? also wanna update my security questions while im at it"
+    id: update-mobile-and-security-questions
+    checklist: |-
+      - Answer provides steps to log into Online Banking with username and password.
+      - Answer describes navigating to the 'Profile' or 'Settings' section for both updates.
+      - Answer outlines the process to update the mobile number, including verification via a confirmation code.
+      - Answer explains how to select and change security questions, ensuring they are memorable yet secure.
+      - Answer mentions saving changes and receiving confirmation notifications for both updates.
+#      - Answer advises contacting customer service if any verification steps cannot be completed online.
+    min_score: 0.7
+
+  - input: need to send money to my sister in germany... never done this before, how does it work?
+    id: setup-international-money-transfer
+    checklist: |-
+      - Answer details logging into Online Banking securely.
+      - Answer explains selecting the international transfer option under transfers.
+      - Answer includes entering recipient's international account number (IBAN) and swift code accurately.
+      - Answer mentions selecting the transfer amount and choosing the appropriate currency.
+      - Answer describes reviewing exchange rates and associated transfer fees before confirming.
+      - Answer outlines the confirmation process and receiving transaction notifications via email or SMS.
+#      - Answer may suggest downloading and emailing an International Money Transfer Request form as an alternative.
+    min_score: 0.8
+
+  - input: how do i set up autopay for my bills? also need to add my landlord as a payee
+    id: manage-automatic-payments-add-payee
+    checklist: |-
+      - Answer explains logging into Online Banking or the mobile app securely.
+      - Answer describes navigating to the 'Payments' section for managing automatic payments.
+      - Answer outlines steps to view, modify, or cancel existing automatic payments.
+      - Answer details the process to add a new payee, including entering payee details and saving them for future transactions.
+      - Answer mentions reviewing and confirming changes to ensure they align with the user’s financial preferences.
+#      - Answer may reference available step-by-step guides on the Acme Bank website for additional assistance.
+    min_score: 0.8
+
+  - input: How do I reset my internet banking password?
+    id: reset-banking-password
+    checklist: |-
+      - Answer explains the steps to reset the internet banking password.
+      - Answer mentions that users who have verified their mobile number can reset the password online through internet banking or the mobile app.
+      - Answer notes an SMS one-time code will be sent, and the user needs to answer their KeepSafe questions.
+      - Answer informs users without a registered mobile number to call bank with their access number and ID used when opening the account.
+    min_score: 0.7
+
+  - input: How can I update my registered mobile number?
+    id: update-registered-mobile
+    checklist: |-
+      - Answer explains that users can update their mobile number in internet banking or the mobile app by following specific instructions.
+      - Answer mentions that users experiencing technical problems accessing their account online should contact bank.
+      - Answer states users will need to provide their access number and the ID used to open their account.
+    min_score: 0.6
+
+  - input: How can I invest in cryptocurrency through Acme Bank?
+    id: negative-invest-cryptocurrency
+    checklist: |-
+      - Answer indicates that this information is not available in the current documentation.
+      - Answer suggests contacting customer support for further assistance or clarifications.
+    min_score: 1
+
+  # - input: "How do I set up payments for online shopping?"
+  #   checklist: |-
+  #     - Verify that the answer explains how to set up payments for online shopping.
+  #     - Check if it advises users to enter their card details on the payment page of the online store.
+  #     - Ensure that the answer emphasizes checking for the locked padlock icon in the browser before the website address to confirm it's a secure site.
+  #     - Confirm that it suggests users regularly check their accounts to ensure the correct amounts are going out at the right time.
+  #     - Verify that the answer references staying safe when making payments online, such as directing users to the security page.
+  #   min_score: 1
+
+  # - input: "How do I activate my credit card if I don't have internet banking?"
+  #   checklist: |-
+  #     - Verify that the answer explains how to activate a credit card without internet banking.
+  #     - If the card already has a PIN:
+  #       - Check if the answer advises the user to activate the card by using it in any store, inserting the card into the EFTPOS machine, and entering their current PIN.
+  #     - If the card doesn't have a PIN:
+  #       - Ensure that the answer informs the user they can activate the card by making a purchase in-store and signing for it.
+  #       - Confirm that it mentions after making a purchase by signing, the user will be able to make contactless payments.
+  #       - Verify that it notes the user won't be able to use the card in an ATM without a PIN.
+  #     - Check if the answer suggests calling bank or visiting the nearest branch to activate the card or set a PIN.
+  #   min_score: 1
+
+  # - input: "How do I change my maturity instructions for my Term Deposit?"
+  #   checklist: |-
+  #     - Verify that the answer explains how to change maturity instructions in internet banking.
+  #     - Check that the answer provides step-by-step guidance:
+  #       - Select the Term Deposit on the 'Accounts' page.
+  #       - Select 'Change' next to Maturity details.
+  #     - Ensure that the answer describes the options available:
+  #       - Change to pay out the interest at maturity to a New Zealand dollar bank account.
+  #       - Change to pay out the full Term Deposit at maturity to a New Zealand dollar bank account.
+  #       - Reinvest the Term Deposit with or without the interest by choosing the term to reinvest.
+  #     - Confirm that it mentions if the user chooses to reinvest at maturity, the Term Deposit will reinvest for the selected term at the rate on the day of maturity.
+  #     - Verify that the explanation is clear and complete.
+  #   min_score: 1
+
+  # - input: "How do I apply for a home loan with bank?"
+  #   checklist: |-
+  #     - Verify that the answer correctly recognizes that the information is not available in the provided document.
+  #     - Check that the response politely informs the user that this information isn't covered in the current context.
+  #     - Ensure that it suggests visiting the bank website or contacting customer support for assistance with home loans.
+  #     - Confirm that the answer avoids providing incorrect or fabricated information.
+  #     - Verify that the response is appropriate, helpful, and adheres to policies on handling unsupported queries.
+  #   min_score: 1

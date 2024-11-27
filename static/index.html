@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Ensures proper rendering and touch zooming on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Bank RAG (LangChain)</title>
+    
+    <!-- External Libraries -->
+    <!-- React and ReactDOM are loaded via CDN for building the user interface -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js" defer></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" defer></script>
+    <!-- Babel is included to allow the use of JSX in the browser -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js" defer></script>
+    <!-- Tailwind CSS for utility-first CSS styling -->
+    <script src="https://cdn.tailwindcss.com" defer></script>
+    <!-- Lucide for scalable vector icons -->
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js" defer></script>
+    <!-- Google Fonts for custom typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Animation for fading in elements smoothly */
+        @keyframes fadeIn { 
+            from { opacity: 0; transform: translateY(10px); } 
+            to { opacity: 1; transform: translateY(0); } 
+        }
+        .fade-in { 
+            animation: fadeIn 0.3s ease-out forwards; 
+        }
+
+        /* Animation for a dynamic ellipsis in typing indicators */
+        @keyframes ellipsis { 
+            0% { content: '.'; } 
+            33% { content: '..'; } 
+            66% { content: '...'; } 
+        }
+        .typing-indicator::after { 
+            content: '...'; 
+            animation: ellipsis 1.5s infinite; 
+        }
+    </style>
+    
+    <!-- Tailwind configuration to extend the default theme -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            window.tailwind.config = {
+                theme: {
+                    extend: { 
+                        fontFamily: { sans: ['Inter', 'sans-serif'] } 
+                    }
+                }
+            }
+        });
+    </script>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center p-4 font-sans">
+    <!-- Root div for React to mount the application -->
+    <div id="root"></div>
+    <!-- Main application script written in JSX, transpiled by Babel -->
+    <script type="text/babel" src="app.js"></script>
+</body>
+</html>

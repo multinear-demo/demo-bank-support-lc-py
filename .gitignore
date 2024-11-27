@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+.ipynb_checkpoints
+.python-version
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

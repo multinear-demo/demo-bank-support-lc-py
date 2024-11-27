@@ -1,0 +1,450 @@
+### Increase in Scam Activities
+
+We have identified a significant rise in fraudulent activities, such as emails and phone calls, impersonating Acme Bank and other reputable companies. Stay alert and check regularly for updates on current scams to protect yourself from potential threats.
+
+# Comprehensive Assistance for Online Banking
+
+If you require detailed guidance on setting up or utilizing online banking, our support page offers answers to frequently asked questions, ensuring a seamless banking experience.
+
+## Setting Up or Resetting Your Online Banking Account
+
+**How can I set up or enroll in online banking?**
+
+To establish your online banking access, follow these steps:
+
+1. **Visit our website**: Navigate to the "Enroll in Online Banking" section found on the home page.
+2. **Personal Information**: Enter your full name, Social Security Number, and your Acme Bank account number.
+3. **Select Your Security Preferences**: Choose security questions and enter your responses. These will be used to verify your identity in future sessions.
+4. **Verify Your Email and Mobile Number**: Input these for verification and to receive important notifications.
+5. **Create a Username and Password**: Your password must include a mix of letters, numbers, and symbols for enhanced security. Maintain this information confidentially.
+6. **Confirm and Submit**: Review your data and submit it for confirmation. A confirmation email will be sent once your account setup is complete.
+
+For those needing assistance, our support representatives can guide you through this process. Simply fill out our digital banking support form on our website, and a team member will contact you promptly.
+
+**How can I reset my online banking password?**
+
+Resetting your password involves these steps:
+
+1. **Access the Online Banking Portal**: Visit our website and select "Forgot Password?" from the login page.
+2. **Enter Identification Details**: Provide your username and the last four digits of your Social Security Number.
+3. **Mobile Verification**: If your number is on file, you’ll receive a one-time SMS code. Enter this code to proceed.
+4. **Security Verification**: Answer your pre-chosen security questions.
+5. **Create a New Password**: Follow guidelines to ensure your password is strong. Re-enter the new password to confirm.
+6. **Confirmation**: You will receive a confirmation email notifying you that your password has been reset.
+
+In absence of a registered mobile number, please call us with your access number and relevant ID (e.g., driver’s license or passport). Our representative will verify your identity and assign a temporary password over the phone. Remember to update your mobile number to facilitate future resets independently.
+
+**How can I change my security questions?**
+
+To update security questions, the process is as follows:
+
+1. **Log into Online Banking**: Use your username and password to enter your account.
+2. **Navigate to Security Settings**: Typically found under the "Profile" or "Settings" tab.
+3. **Select Security Questions**: Review and update as necessary. Choose questions and answers that are easy for you to remember but difficult for others to guess.
+4. **Save Changes**: Confirm your new selections and logout securely.
+
+For troubleshooting common issues with security questions, detailed solutions are accessible via our website.
+
+**How do I update my registered mobile number?**
+
+To change your mobile number, follow these detailed steps:
+
+1. **Login to Your Account**: Use your online banking credentials.
+2. **Locate the Personal Information Section**: Usually found under the "Profile" menu.
+3. **Update Mobile Number**: Input your new mobile number and confirm.
+4. **Verification**: A confirmation code will be sent to your new mobile number. Enter it within the online banking portal to verify the change.
+5. **Confirmation**: You will receive an email confirming your mobile number has been updated.
+
+If you face any technical challenges, contact us with your access number and identification information used upon account setup. Please note that you get five complimentary calls monthly; calls exceeding this may incur a fee.
+
+**Where can I find my access number?**
+
+Your access number is easily accessible through various means:
+
+- **Monthly Statements**: Check your monthly bank statement where the access number is frequently displayed.
+- **Mobile App**: Login and click on the 'More' option; your access number appears under your name near the Acme Bank logo.
+- **Visa Debit or Credit Cards**: Look on the card's back, where your name and access number are printed.
+- **Welcome Email**: New online banking customers receive their access number in the welcome email shortly after registration.
+
+**How can I log back into my account after being logged out due to inactivity?**
+
+To regain access after inactivity, simply:
+
+1. **Re-enter Your Access Number and Password**: Use the login page to input your credentials.
+2. **Complete Security Verification if Prompted**: Depending on your settings, you might be asked to answer security questions or input an SMS code.
+3. **Access Your Dashboard**: Once successfully logged in, you will be redirected to your account dashboard.
+
+Keep your session active by regularly moving your cursor or engaging with different features on the platform.
+
+## Managing Your Account
+
+**How do I update my personal details?**
+
+Updating your contact information involves these steps:
+
+1. **Log into the Account Dashboard**: Enter using your username and password.
+2. **Visit the Settings or Profile Section**: Found within the top or side navigation panel.
+3. **Modify Personal Details**: Ensure the accuracy of your address, phone number, and email.
+4. **Submit Changes**: Save your updates. You might receive a confirmation notice verifying the changes.
+5. **Confirmation via Email/SMS**: You will receive an alert confirming the updated information.
+
+For mobile number updates, a one-time code is sent for confirmation. If you have shifted to a new number unavailable for verification, get in touch with customer service.
+
+**Updating Information with Insurance Providers**
+
+Remember to update your contact details separately with our insurance partners to ensure seamless communications regarding your insurance policies.
+
+**Opening a New Account Online**
+
+**For Existing Acme Bank Customers**
+
+To initiate a new account seamlessly:
+
+1. **Access Online Banking**: Log into your existing account.
+2. **Navigate to 'Apply & Open'**: This is located on the main dashboard or menu.
+3. **Select Account Type**: Choose the account you wish to open (e.g., savings, checking).
+4. **Complete Application**: Fill in any necessary information, ensuring accuracy.
+5. **Submit for Review and Confirmation**: After submission, you'll receive a verification email or SMS. 
+6. **Access Account Immediately**: Most new accounts are available for use right away unless specific verification is required.
+
+If online banks aren’t accessible, reach out to us, or visit any branch for direct assistance.
+
+**New to Acme Bank**
+
+Joining Acme Bank online is convenient:
+
+1. **Visit the Acme Bank Website**: Locate the "Join Us" link.
+2. **Begin Application Process**: Choose between individual or business accounts and enter relevant details.
+3. **Identity Verification**: You’ll need to provide identification (e.g., driver's license) and current address proof.
+4. **Review Available Account Options**: Choose from accounts like Free Saver and Business Edge.
+5. **Submit Application**: Once reviewed, you'll receive an email detailing the next steps.
+6. **Download Our App for Access**: Newly opened accounts can be linked to the mobile app once identity verification is complete.
+
+Relocating to the US? Start the process online and visit a branch after arrival to complete verification.
+
+**How do I close an account?**
+
+To close an account, ensure:
+
+1. **Zero Account Balance**: Transfer any remaining funds to another account.
+2. **Cancel Automatic Payments**: Stop any recurring transfers or redirects them to another account.
+3. **Use Secure Messaging or the App**: Send a message within online banking or use the app to initiate closure.
+4. **Direct Call for Assistance**: If necessary, contact our support line. Prepare any required identification information.
+5. **Download Account Statements**: Before finalizing, ensure all necessary documents are downloaded as online access will be removed post closure.
+
+We appreciate feedback regarding account closure, aiding in our service enhancement efforts.
+
+**Contacting Acme Bank from Abroad**
+
+For non-urgent support while overseas:
+
+1. **Log into Online Banking or App**: Communicate securely via message.
+2. **For Urgent Support (e.g., Fraud)**: Call our dedicated international support line for immediate assistance.
+3. **Travel Notification**: Inform us about your travel plans via settings under 'Travel Notice' to receive prioritized support and reduce the chance of security holds on your account.
+
+**Checking Account Balances**
+
+To view your balances:
+
+1. **Log into Online Banking or the App**: Ensure secure login.
+2. **Access Accounts Dashboard**: View balances and transactions at a glance.
+3. **Detailed Transaction View**: Click on each account for further breakdown to ensure all deposits and withdrawals are recorded correctly.
+
+If issues arise or balances seem inaccurate, send us a secure message.
+
+**Why is account closure available on the app but not on online banking?**
+
+Current technology prioritizes mobile app functionality for immediate banking needs including account closure. The app offers streamlined access, leveraging device-specific security. Anticipate extending closure capabilities online in future updates. In case of app access issues, utilize secure online banking messaging for support.
+
+**Adding a Payee to an Account**
+
+To add a payee:
+
+1. **Log into Online Banking or the App**: Securely access your account.
+2. **Navigate to Payments**: Typically under a 'Pay & Transfer' section.
+3. **Select 'Add Payee'**: Enter the payee's details, such as name and account number.
+4. **Review and Save**: Confirm details before saving for future transactions.
+
+Detailed step-by-step guides are available on the Acme Bank website for additional guidance.
+
+**Changing Automatic Payments Online**
+
+Make changes or cancel automatic payments directly through online banking:
+
+1. **Log into Your Account**: Securely access online banking.
+2. **Visit the Payments Section**: Locate scheduled payments.
+3. **Select Desired Payment**: View details for review.
+4. **Modify or Cancel**: Adjust amount/dates, or select cancellation for final termination.
+5. **Save and Confirm**: Confirm any changes or cancellations to take immediate effect.
+
+Comprehensive help is available online, ensuring your scheduled payments align with your financial preferences.
+
+## Transactions
+
+**Making an Online Transfer**
+
+To transfer funds:
+
+1. **Log into Your Account**: Ensure secure entry to online banking.
+2. **Navigate to Transfers**: Easily found under the main menu.
+3. **Input Recipient Details**: Enter the recipient's name and account number (domestic transfers).
+4. **Confirm Transfer Amount**: Ensure accuracy before proceeding.
+5. **Review and Complete**: Confirm transaction details, ensuring all data is accurate, and submit.
+6. **Receive Confirmation**: An email or SMS notifies you of successful transfers.
+
+For international transfers, ensure correct IBAN (International Bank Account Number) and currency conversion options are specified, with instructions available via our website.
+
+**Sending Money Internationally**
+
+With international transfers, utilize these options:
+
+1. **Log into Online Banking**: Ensure secure navigation.
+2. **Select International Transfer Option**: Located under transfers.
+3. **Fill in Recipient Details**: Ensure recipient’s international account number (IBAN) and swift code are correctly entered.
+4. **Amount and Currency Selection**: Select the appropriate amount and currency, ensuring correct conversion.
+5. **Review Transfer Fees**: Be aware of applicable fees.
+6. **Submit and Confirm**: You will receive transaction confirmation via your registered email or SMS.
+
+Alternatively, download, complete, and email an International Money Transfer Request form. This option may be more suitable for those preferring additional documentation.
+
+**Making Payments Overseas**
+
+For payments while traveling:
+
+1. **Access Online Banking or the App**: Use secure login credentials.
+2. **Initiate Payment**: Go to the 'Pay & Transfer' section and select 'New Payment.'
+3. **Specify Payment Details**: Enter payee information and payment amount.
+4. **International Verification**: Ensure your phone can receive one-time codes; SIM roaming may incur fees.
+5. **Notify Acme Bank of Travel Plans**: Update via the 'Travel Notice' on settings to avoid issues.
+6. **Completion and Confirmation**: Confirm transaction and await confirmation email.
+
+For issues related to SMS code reception, contact us directly for assistance.
+
+**International Payments from Foreign Currency Accounts**
+
+To set up these transactions:
+
+1. **Log into Online Banking**: Navigate through secure access.
+2. **Select Foreign Currency Accounts**: Choose the account designated for international transactions.
+3. **Initiate International Money Transfer**: Execute the payment following the outlined currency and destination selections.
+4. **Confirm Exchange Rates and Fees**: Review all associated costs and the final amount in USD.
+5. **Review and Finalize**: Confirm details and submit for processing.
+
+Comprehensive information and assistance are available through customer support for complex transactions.
+
+**Paying Bills Without Online Banking**
+
+To pay bills efficiently:
+
+1. **Enroll in Online Banking**: Follow guided setup accessible on our website. This allows for seamless bill payments online.
+2. **Utilize Traditional Methods**: If online banking isn’t an option, mail checks using provided address on billing statements.
+3. **Visit Branch Locations**: In-person payments can be made at any branch location.
+
+For setup assistance or inquiries, contact customer support.
+
+**Obtaining Proof of Bank Account**
+
+To acquire account proof:
+
+1. **Log into Online Banking**: Navigate the dashboard.
+2. **Find Statement Vault**: Located within the 'Accounts' section.
+3. **Select 'Account Statement'**: Choose the appropriate statement period.
+4. **Download Statement**: Click to download in PDF format for printing or saving.
+5. **Request Hard Copies if Needed**: Call customer support for assistance with mailing physical copies.
+
+These steps ensure convenient retrieval of bank statements for purposes such as loans or rental verifications.
+
+**Transferring Money from a Joint Account**
+
+For joint account transfers:
+
+1. **Log into Online Banking**: Securely enter credentials.
+2. **Select Joint Account**: Found on your accounts dashboard.
+3. **Choose 'Transfer Funds'**: Decide the transfer type – either internal (between Acme Bank accounts) or external.
+4. **Specify Amount and Details**: Enter the amount and destination account details.
+5. **Verify Single Sign Authority**: Ensure the joint account allows changes by one signatory, if applicable.
+6. **Confirm and Submit**: Review transaction, confirm details, and proceed.
+
+For accounts requiring both signatures, adjustments must be made in person at a branch.
+
+**Paying Credit Card Bills Online**
+
+To pay your credit card bills:
+
+1. **Log into Online Banking**: Navigate with your credentials.
+2. **Access Credit Card Account**: Select it from the accounts display.
+3. **Click on 'Make Payment'**: Typically found near account balance.
+4. **Choose Payment Amount**: Select minimum payment, statement balance, or other amounts.
+5. **Select Payment Source**: Choose from linked accounts.
+6. **Review and Confirm**: Confirm your payment to complete the process and receive a confirmation email.
+
+These guides offer seamless credit card management, ensuring timely bill payments.
+
+**Paying Taxes Online**
+
+For paying taxes:
+
+1. **Log into Online Banking**: Ensure navigation to the tax section.
+2. **Select 'Pay Tax' Option**: Found under the transfer or manage payments menu.
+3. **Enter IRS Number and Tax Type**: Specify the IRS number and select the tax type from the dropdown.
+4. **Verify Details and Amounts**: Ensure all entries are correct.
+5. **Confirm and Submit**: Complete the transaction by confirming the details.
+
+Detailed guidance is available on our site, including IRS specifics and frequently asked questions.
+
+**Setting Up Online Shopping Payments**
+
+For online shopping:
+
+1. **Visit the Retailer’s Payment Page**: Complete purchase selections and proceed to checkout.
+2. **Enter Card Details**: Input your card number, expiration date, and CVV code.
+3. **Ensure Security**: Verify a locked padlock symbol for secure connections, ensuring encrypted processing.
+4. **Review Order Summary**: Confirm total amount and shipping details.
+5. **Final Confirmation**: Submit payment and monitor account for immediate transaction approval.
+
+This process ensures a secure shopping experience online while safeguarding your financial information.
+
+## Cards
+
+**Activating a Credit Card**
+
+To activate your credit card:
+
+**For Cards with Existing PINs**
+
+1. **Visit Online Banking/ App**: Log in using your credentials.
+2. **Select Credit Card**: Find it under the accounts section.
+3. **Locate 'Additional Options**: Under 'Card Status,' select ‘Activate your Card.'
+4. **In-Store Activation**: As an alternative, insert your card in-store and enter your current PIN to activate.
+
+**For New Cards or Those Without a PIN**
+
+1. **Log into Online Banking/ App**: Enter credentials and head to 'Cards.'
+2. **Select 'Set/Change PIN'**: Enter and reconfirm a new PIN.
+3. **Activate Without a PIN**: Choose activation while opting to sign for payments initially, if preferred.
+
+Visit a branch or contact support if online banking isn’t available.
+
+**Blocking or Unblocking a Credit Card**
+
+To block/unblock a credit card:
+
+1. **Access Online Banking**: Log in securely.
+2. **Navigate to the Accounts Overview**: Click on the credit card needing modifications.
+3. **Under 'Manage Your Card,' Select 'Block/Unblock'**: Follow the pop-up instructions for confirmation.
+4. **Proceed with Changes**: Confirm to either block or unblock the card immediately.
+
+Remember, blocking prevents new transactions, though it can be undone at any time.
+
+**Ordering or Replacing Visa Debit and Debit Cards**
+
+To order or replace cards:
+
+1. **Log into Online Banking**: Or use our mobile app.
+2. **Select 'Apply & Open'**: Choose the 'Cards' option.
+3. **Choose Card Type**: Opt for either Visa Debit or traditional debit cards.
+4. **Enter Required Details**: Create a new PIN and link desired accounts (up to two).
+5. **Confirm Information and Submit**: Ensure your postal address is up-to-date to receive your card within 1–2 weeks.
+
+For urgent needs, visit the nearest branch.
+
+**Cancelling Visa Debit and Debit Cards**
+
+To cancel cards effectively:
+
+1. **Log into Online Banking**: Use secure credentials.
+2. **Head to Settings**: Locate 'Cancel a Card' midway through the page.
+3. **Select and Cancel**: Choose the correct card and confirm cancellation.
+
+This process avoids errors, ensuring accurate processing.
+
+**Setting or Changing a Card PIN**
+
+To modify or set a PIN:
+
+1. **Log into Online Banking**: Use secure access.
+2. **Select 'Cards'**: Navigate through the accounts overview.
+3. **Choose 'Set/Change PIN'** for the desired card: Input and confirm any changes.
+
+When accessing different ATMs, this functionality ensures seamless transaction experiences.
+
+**Setting Up Mobile Payments**
+
+For mobile payment solutions:
+
+1. **Download Respective Wallet Apps**: Apple Wallet for Apple users or Google Wallet for Android devices.
+2. **Log into Our Mobile App**: Link your card within the services tab.
+3. **Follow Built-In Instructions**: Set up wallet payment options and confirm.
+4. **Complete Verification**: Ensure mobile bank communications to sync with your card.
+
+Enjoy easy and secure mobile payments whether shopping online or in-store.
+
+## Fixed Deposits
+
+**Opening a Fixed Deposit**
+
+To open a fixed deposit:
+
+1. **Visit Online Banking/ App**: Navigate to the ‘Investments’ section under the 'Apply & Open' menu.
+2. **Select 'Fixed Deposit'**: Specify deposit parameters including term length.
+3. **Enter Deposit Amount**: Amounts from $1,000 to $1 million USD can be entered.
+4. **Provide Funding Source**: Select an Acme Bank account for initial funding.
+5. **Review Terms and Confirm**: Submit once satisfied with selected details.
+
+Receive prompt confirmation and pre-maturity reminders from our team for further management.
+
+**Changing Maturity Instructions**
+
+Modify maturity options by:
+
+1. **Log into Online Banking/ App**: Seek your Fixed Deposit within the accounts section.
+2. **Select 'Change Maturity Instructions'**: Make selections for next steps upon maturity.
+3. **Choose Desired Outcome**: Reinvestment choices and payout allocations available.
+4. **Confirm and Save**: Verified options remain locked until maturity.
+
+Regular notifications keep you aware of investment progresses and maturity timelines.
+
+## Statements
+
+**Locating, Downloading, and Printing Statements**
+
+Retrieve statements as follows:
+
+1. **Log into Online Banking**: Or access through our app.
+2. **Visit 'Statement Vault'**: Located within the transactions/account menu.
+3. **Select Desired Statements**: Choose based on needed timeframe.
+4. **Download PDF Files**: Easily accessible in print-friendly format.
+5. **Store or Print for Records**: Secure usage as needed for financial documentation.
+
+Contact customer support for detailed physical records and additional requests.
+
+**Generating a Statement of Transaction History**
+
+Create transaction history statements by:
+
+1. **Log into Online Banking**: Utilizing your credentials.
+2. **Access Desired Accounts**: Through the accounts dashboard.
+3. **Utilize 'Search/Export Options'**: Apply specified filters to highlight transactions.
+4. **Complete Export**: Choose format like PDF for ease of printing.
+
+Comprehensive filters provide clarity, ensuring documentation of all relevant transactions.
+
+**Updating Statement Preferences**
+
+Modify preferences effectively by:
+
+1. **Log into Online Banking**: Go to the settings menu.
+2. **Select 'Statement Settings'**: Modify delivery methods (e.g., email or postal services).
+3. **Update Email Preferences**: Enter any new addresses as necessary.
+4. **Save and Confirm Changes**: Modification processes conclude with confirmation.
+
+Be aware that selecting postal service could involve additional charges; updates ensure timely delivery.
+
+### Mobile App Download
+
+The Acme Bank mobile app is available free of charge via the App Store or Google Play, designed expressly for our valued customers. Transitioning to mobile usage offers seamless banking experiences and does not necessitate prior internet banking registration.
+
+For those new to mobile banking and seeking support, assistance with setup and ongoing banking processes is available upon request. Please complete our digital support form; expect prompt follow-up to address your needs.
+
+- Contact Us
+- Support Hub
