@@ -33,6 +33,7 @@ def init_tracing():
         from openinference.instrumentation.langchain import LangChainInstrumentor
         LangChainInstrumentor().instrument(tracer_provider=tracer_provider)
 
-    # if os.getenv("TRACE_SIMPLE", False):
-    #     print("Initializing stdout tracing")
-    #     set_global_handler("simple")
+    if os.getenv("TRACE_SIMPLE", False):
+        print("Initializing stdout tracing")
+        from langchain.globals import set_debug
+        set_debug(True)
