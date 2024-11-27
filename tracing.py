@@ -8,7 +8,7 @@ Provides integration with various tracing tools based on environment variables:
 This module helps in debugging and monitoring the RAG system's behavior and performance.
 """
 
-# import os
+import os
 
 
 def init_tracing():
@@ -24,13 +24,15 @@ def init_tracing():
     #     logfire.configure()
     #     logfire.instrument_openai(Settings._llm._get_client())
 
-    # if os.getenv("TRACE_PHOENIX", False):
-    #     print("Initializing Phoenix tracing")
-    #     import phoenix as px
-    #     px.launch_app()
-    #     set_global_handler("arize_phoenix")
+    if os.getenv("TRACE_PHOENIX", False):
+        print("Initializing Phoenix tracing")
+        import phoenix as px
+        px.launch_app()
+        from phoenix.otel import register
+        tracer_provider = register()
+        from openinference.instrumentation.langchain import LangChainInstrumentor
+        LangChainInstrumentor().instrument(tracer_provider=tracer_provider)
 
     # if os.getenv("TRACE_SIMPLE", False):
     #     print("Initializing stdout tracing")
     #     set_global_handler("simple")
-    pass
